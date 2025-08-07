@@ -1,6 +1,6 @@
 # Inventory-Tracking-Dashboard
 
-About this project
+About this project : Guided Project
 
 Goal
 
@@ -21,11 +21,21 @@ Data Modeling
 
 The next step involves data modeling using Power Pivot to establish relationships between the tables. Accessing the Power Pivot window enables visualizing these relationships.
 
+![Image Alt](https://github.com/maryamkamaruddin/Inventory-Tracking-Dashboard/blob/e63a7ea6b48baadb1d7a09024e98b7e508dd98f6/data%20model.JPG)
+
 Pivot Table
 
 Using the established data model, a pivot table is created to start analyzing the data.
 
+- Pivot table 1 : The product names are organized in rows, and quantities are calculated in the values area to ensure everything is functioning correctly. This pivot table forms the basis for the dashboard.
+- Pivot table 2 : Total values in months table is formed for bar chart of forecast by month.
+- Pivot table 3 : Total quantities by categories table is formed for pie chart of stock qty by category.
+- Pivot table 4 : Total values by expiry buckets table is formed for pie chart of stock by expiry bucket.
+
 Dashboard Design
+
+![Image Alt](https://github.com/maryamkamaruddin/Inventory-Tracking-Dashboard/blob/e63a7ea6b48baadb1d7a09024e98b7e508dd98f6/Dashboard.JPG)
+
 
 - Metrics and Calculations
 Several calculations are key to the dashboard :
