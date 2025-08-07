@@ -1,7 +1,7 @@
 # Inventory-Tracking-Dashboard
 
-About this project : Guided Project
-Tools : Excel
+- About this project : Guided Project
+- Tools : Excel
 
 Goal
 
